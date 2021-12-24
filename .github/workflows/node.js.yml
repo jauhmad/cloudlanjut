@@ -1,4 +1,4 @@
-name: Calculate-test CI -> saya ganti
+name: Calculate-test CI
 
 on:
   push:
